@@ -25,18 +25,18 @@
 
                             <div class="form-group">
                                 <label for="input-1">Start Date</label>
-                                <input type="date" class="form-control" id="input-1" "
+                                <input required type="date" class="form-control" id="input-1" "
                                     name="startDate">
                             </div>
                            
                             <div class="form-group">
                                 <label for="input-2">Reason</label>
-                                <textarea type="textarea" class="form-control" name="reason" id="input-2"
+                                <textarea required type="textarea" class="form-control" name="reason" id="input-2"
                                     placeholder="describe your reason"></textarea>
                             </div>
                             <div class="form-group">
                                <select class="form-control" aria-label="Default select example" name="type">
-                                <option selected>Open this select menu</option>
+                                
                                 <option value="sick">sick</option>
                                 <option value="vacation">vacation</option>
                                 <option value="other">other</option>

@@ -90,6 +90,7 @@
                                     <th>User Name</th>
                                     <th>email</th>
                                     <th>Birthday</th>
+                                    <th>status</th>
                                 </tr>
                             </thead>
                             <tbody>
